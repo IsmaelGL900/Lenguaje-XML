@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos>
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador>Hansik Flick</entrenador>
+        <jugadores>
+            <jugador posicion="Portero">
+                <nombre>Marc-André ter Stegen</nombre>
+                <nacionalidad>Alemán</nacionalidad>
+            </jugador>
+            <jugador posicion="Delantero">
+                <nombre>Lamine Yamal</nombre>
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Sevilla FC</nombre>
+        <ciudad>Sevilla</ciudad>
+        <entrenador>Garcia Pimienta</entrenador>
+        <jugadores>
+            <jugador posicion="Defensa">
+                <nombre>Badé</nombre>
+                <nacionalidad>Frances</nacionalidad>
+            </jugador>
+            <jugador posicion="Medio">
+                <nombre>Sow</nombre>
+                <nacionalidad>Suizo</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Servidores>
+    <Servidor IDServidor="1">
+        <Ubicacion>Madrid</Ubicacion>
+        <CaracteristicasHardware>
+            <Placa tplaca="ATX">ASUS PRIME Z390</Placa>
+            <TipoMem>DDR4</TipoMem>
+            <CantMem amp="Ghz">16</CantMem>
+            <VeloMem veloc="Ghz">3.2</VeloMem>
+            <TecnHD>SSD</TecnHD>
+            <CapacHD ahd="Tb">1</CapacHD>
+            <TarjRed>Intel Gigabit</TarjRed>
+        </CaracteristicasHardware>
+        <Marca>HP</Marca>
+        <Uso>Correo</Uso>
+        <Fecha_UF>2024-01-15</Fecha_UF>
+    </Servidor>
+    
+    <Servidor IDServidor="2">
+        <Ubicacion>Barcelona</Ubicacion>
+        <CaracteristicasHardware>
+            <Placa tplaca="AT">MSI B450 TOMAHAWK</Placa>
+            <TipoMem>DDR4</TipoMem>
+            <CantMem amp="Ghz">32</CantMem>
+            <VeloMem veloc="Ghz">3.6</VeloMem>
+            <TecnHD>HDD</TecnHD>
+            <CapacHD ahd="Tb">2</CapacHD>
+            <TarjRed>Realtek 2.5G</TarjRed>
+        </CaracteristicasHardware>
+        <Marca>IBM</Marca>
+        <Uso>ERP/CRM</Uso>
+        <Fecha_UF>2023-12-10</Fecha_UF>
+    </Servidor>
+    
+    <Servidor IDServidor="3">
+        <Ubicacion>Valencia</Ubicacion>
+        <CaracteristicasHardware>
+            <Placa tplaca="ATX">Gigabyte X570 AORUS</Placa>
+            <TipoMem>DDR5</TipoMem>
+            <CantMem amp="Ghz">64</CantMem>
+            <VeloMem veloc="Ghz">4.0</VeloMem>
+            <TecnHD>NVMe</TecnHD>
+            <CapacHD ahd="Tb">4</CapacHD>
+            <TarjRed>Broadcom 10G</TarjRed>
+        </CaracteristicasHardware>
+        <Marca>HP</Marca>
+        <Uso>DiseñoGráfico</Uso>
+        <Fecha_UF>2024-02-05</Fecha_UF>
+    </Servidor>
+</Servidores>

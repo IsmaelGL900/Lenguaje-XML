@@ -1,0 +1,8 @@
+<xml version="1.0" encoding="UTF-8">
+
+<regis>
+    <autor>Jose Saramgo</autor>
+    <titulo idioma="Español">Memoria del convento</titulo>
+    <titulo idioma="Portugues">Memoria del convento</titulo>
+    <portada filenom="fport.jpg"/>
+</regis>

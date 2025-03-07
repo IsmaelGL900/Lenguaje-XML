@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eBooks>
+    <eBook>
+        <titulo>Lenguaje de Marcas</titulo>
+        <autores>
+            <autor>Alex Tolon</autor>
+        </autores>
+        <modulo>LMSGI</modulo>
+        <licencia>CC3.0</licencia>
+        <fecha_publicacion>2011-09-15</fecha_publicacion>
+        <ISBN>978929212456</ISBN>
+        <lecciones>
+            <leccion numero="1">
+                <parrafos>
+                    <parrafo></parrafo>
+                    <parrafo></parrafo>
+                </parrafos>
+                <imagenes>
+                    <imagen></imagen>
+                </imagenes>
+                <autoevaluaciones>
+                    <autoevaluacion></autoevaluacion>
+                    <autoevaluacion></autoevaluacion>
+                </autoevaluaciones>
+                <ejercicios>
+                    <ejercicio></ejercicio>
+                </ejercicios>
+            </leccion>
+            <leccion numero="2">
+                <parrafos>
+                    <parrafo></parrafo>
+                    <parrafo></parrafo>
+                    <parrafo></parrafo>
+                </parrafos>
+                <animaciones>
+                    <animacion></animacion>
+                </animaciones>
+                <autoevaluaciones>
+                    <autoevaluacion></autoevaluacion>
+                </autoevaluaciones>
+                <ejercicios>
+                    <ejercicio></ejercicio>
+                </ejercicios>
+            </leccion>
+        </lecciones>
+    </eBook>
+    <eBook>
+        <titulo>Empresa e Iniciativa Emprendedora</titulo>
+        <autores>
+            <autor>Miguel Ángel Sánchez</autor>
+            <autor>Xabier Epelde</autor>
+        </autores>
+        <modulo>EIE</modulo>
+        <licencia>Public Domain</licencia>
+        <fecha_publicacion>2010-06-25</fecha_publicacion>
+        <ISBN>978439288416</ISBN>
+        <lecciones>
+            <leccion numero="1">
+                <parrafos>
+                    <parrafo></parrafo>
+                    <parrafo></parrafo>
+                    <parrafo></parrafo>
+                </parrafos>
+                <animaciones>
+                    <animacion></animacion>
+                    <animacion></animacion>
+                </animaciones>
+                <autoevaluaciones>
+                    <autoevaluacion></autoevaluacion>
+                </autoevaluaciones>
+                <ejercicios>
+                    <ejercicio></ejercicio>
+                    <ejercicio></ejercicio>
+                </ejercicios>
+            </leccion>
+        </lecciones>
+    </eBook>
