@@ -2,6 +2,7 @@
 <DOCTYPE pokedex SYSTEM "Ejercicio2.dtd">
 <pokemon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="Ejercicio3.xsd">
+<?xml-stylesheet type="text/xsl" href="Ejercicio4.xslt"?>
 
 <pokedex>
     <pokemon nombre="bulbasur" num_pokedes="1">
