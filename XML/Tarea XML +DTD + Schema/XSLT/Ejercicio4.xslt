@@ -8,6 +8,9 @@
                     <div>
                         <h1><xsl:value-of select="@num_pokedes"/>-<xsl:value-of select="@nombre"/> </h1>
                         <br/>
+                        <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png" alt="" style="height:200px; border:solid;"/>
+                        <br/>
+                        <br/>
                         <table border="1">
                             <tr style=" background-color:rgb(6, 150, 246);">
                                 <th>Sexo</th>
