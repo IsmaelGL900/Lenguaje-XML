@@ -5,7 +5,7 @@
 <?xml-stylesheet type="text/xsl" href="Ejercicio4.xslt"?>
 
 <pokedex>
-    <pokemon nombre="bulbasur" num_pokedes="1">
+    <pokemon nombre="Bulbasur" num_pokedes="1">
 
         <datos_generales>
             <sexo>M/F</sexo>
